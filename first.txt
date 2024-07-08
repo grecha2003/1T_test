@@ -1,2 +1,6 @@
 Hello 1T
+<<<<<<< HEAD
 New text in main branch master
+=======
+Text from the new_branch
+>>>>>>> new_branch
